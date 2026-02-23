@@ -50,12 +50,13 @@ function App(): React.JSX.Element {
       'mp_closebutton_display': true,
 
       // "mp_enable_fullscreen": true,
-      // "mp_classic_webcore": false,
+
+      //Set Environment
+      // 'mp_core_env': '2', //Optional: Set Environment for Webview Core URL.
 
       //Google Pay
       //'mp_sandbox_mode': true,
       //'mp_extended_vcode': false,  // Optional : Set true if your account enabled extended Verify Payment
-
 
       //Apple Pay
       //'mp_express_mode': true,

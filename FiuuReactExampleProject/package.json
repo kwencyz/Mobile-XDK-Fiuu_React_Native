@@ -1,5 +1,5 @@
 {
-  "name": "react_xdk",
+  "name": "example",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native/gradle-plugin": "^0.79.3",
-    "fiuu-mobile-xdk-reactnative": "^1.0.22",
+    "fiuu-mobile-xdk-reactnative": "1.0.25",
     "react": "19.0.0",
     "react-native": "^0.79.3"
   },
